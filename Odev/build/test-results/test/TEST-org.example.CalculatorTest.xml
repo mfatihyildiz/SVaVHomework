@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-24T09:37:45" hostname="DESKTOP-EECKUNE" time="0.065">
+  <properties/>
+  <testcase name="testDivisionByZero()" classname="org.example.CalculatorTest" time="0.014"/>
+  <testcase name="[1] 10, 2, 5" classname="org.example.CalculatorTest" time="0.014"/>
+  <testcase name="[2] 10, 4, 2.5" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="[3] 12.5, 5, 2.5" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="[4] 10, 2.5, 4" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="[5] 12.5, 2.5, 5" classname="org.example.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
